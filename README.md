@@ -1,4 +1,4 @@
-# API-Compra-de-Estoque
+# API-Gerenciamento-de-Estoque
 API de gestão de estoque (compra) usando Python, Flask e MySQL
 
 ## Preparando o ambiente virtual
